@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I blog on https://mysharepointlearnings.wordpress.com/ (not frequently) ...
+- 🌱 I use GitHub for random PoC Projects which I don't keep updated ...
+- 👯 Thanks for visiting!! ...
+
 <!--
 **garima2510/garima2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
