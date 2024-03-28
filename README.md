@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am a Cloud Solutions Architect currently working with Microsoft. Few tidbits about me:
+### I am a TOGAF 10.0 Certified Enterprise Architect currently working with Microsoft. Few tidbits about me:
 
 - 🔭 I blog on https://mysharepointlearnings.wordpress.com/ (not frequently) ...
 - 🌱 I use GitHub for random PoC Projects which I don't keep updated ...
